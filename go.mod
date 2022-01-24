@@ -1,4 +1,4 @@
-module br
+module github.com/jacktwist/goBR
 
 go 1.13
 
